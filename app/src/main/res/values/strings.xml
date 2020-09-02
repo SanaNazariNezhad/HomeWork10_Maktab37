@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork10_Maktab37</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create">Create</string>
+    <string name="number_of_task">Number of Task</string>
+    <string name="name_of_task">Name of Task</string>
+</resources>
